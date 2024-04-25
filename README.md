@@ -1,6 +1,6 @@
 <h1 align="center">Soul Boy</h1>
 
-<p align="center"><img src="https://github.com/Zax-boop/SoulBoy/assets/54860072/6897636e-cf88-4f7e-8c96-b0f1880b2d07" alt="logo" width="200px" /></p>
+<p align="center"><img src="https://github.com/Zax-boop/SoulBoy/assets/54860072/3dd3a753-a2fe-45fb-bd8f-357a6e3d6f92" alt="logo" width="200px" /></p>
 
 <p align="center"> A 2.5D soulslike sidescroller developed with Unreal Engine 5 Game</p>
 
