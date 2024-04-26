@@ -39,7 +39,7 @@ The game will encompass a grim, mysterious, and atmospheric world where the play
 
 <p align="center"><img src="https://github.com/Zax-boop/SoulBoy/assets/54860072/929ff87f-2a44-4d16-8105-e5a57845e888" alt="logo" width="600" /></p>
 
-## Our Studio
+## Studio
 
 <p align="center"><img src="https://github.com/Zax-boop/SoulBoy/assets/54860072/e6177d7d-9aa1-4f00-b22c-706e585340df" alt="logo" width="200px" /></p>
 
