@@ -44,5 +44,5 @@ The game will encompass a grim, mysterious, and atmospheric world where the play
 <p align="center"><img src="https://github.com/Zax-boop/SoulBoy/assets/54860072/e6177d7d-9aa1-4f00-b22c-706e585340df" alt="logo" width="200px" /></p>
 
 <div align="center">
-Created by Rohan Arya, Eric Cao, and Akash Sannasi as Skyward Studio's inaugural game for CS 415: Game Development at UIUC
+Skyward Studio's inaugural game created by Rohan Arya, Eric Cao, and Akash Sannasi for CS 415: Game Development at UIUC
 </div>
