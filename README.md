@@ -19,6 +19,27 @@ The game will encompass a grim, mysterious, and atmospheric world where the play
 
 ## Features
 
+### Traverse Through 3 Levels
+
+<p align="center"><img src="https://github.com/Zax-boop/SoulBoy/assets/54860072/54530e57-8f64-449e-b26c-56669a9469dd" alt="logo" width="600" /></p>
+
+<p align="center"><img src="
+https://github.com/Zax-boop/SoulBoy/assets/54860072/ff1ff3ca-55a6-4e99-9b50-6ead55307ffd" alt="logo" width="600" /></p>
+
+<p align="center"><img src="https://github.com/Zax-boop/SoulBoy/assets/54860072/5d5dc10d-a1b9-4754-b4bf-855925382d7a" alt="logo" width="600" /></p>
+
+### Use Melee Attacks
+
+<p align="center"><img src="https://github.com/Zax-boop/SoulBoy/assets/54860072/db997161-71d6-4e61-889e-be1bcb7add74" alt="logo" width="600" /></p>
+
+### Shoot Bullets
+
+<p align="center"><img src="https://github.com/Zax-boop/SoulBoy/assets/54860072/fbae4a8f-f10c-452b-ae2e-5cd4ff502440" alt="logo" width="600" /></p>
+
+### Dodge Incoming Attacks
+
+<p align="center"><img src="https://github.com/Zax-boop/SoulBoy/assets/54860072/929ff87f-2a44-4d16-8105-e5a57845e888" alt="logo" width="600" /></p>
+
 ## Studio
 
 <p align="center"><img src="https://github.com/Zax-boop/SoulBoy/assets/54860072/e6177d7d-9aa1-4f00-b22c-706e585340df" alt="logo" width="200px" /></p>
