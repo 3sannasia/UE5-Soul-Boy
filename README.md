@@ -15,7 +15,7 @@
 
 ### Genre: Soulslike, Sidescroller, Platformer, Dark Fantasy
 
-The game will encompass a grim, mysterious, and atmospheric world where the player will control “Souly Boy”. This journey, in the form of a Soulslike platformer, will include many nightmarish creatures and treacherous landscapes with many enemies and traps that must be avoided. We want the player to learn to battle using attacks and strategic evasion. "Souly Knight" features haunting visuals. Created by Skyward Studios the game melds challenging gameplay, atmospheric design, and a gripping indirect narrative. It promises an unforgettable experience for enthusiasts of platformers, Soulslike games, and dark fantasy genres alike. Get ready to test your skills and unravel the dark secrets that envelop the world of "Souly Boy."
+The game will encompass a grim, mysterious, and atmospheric world where the player will control “Soul Boy”. This journey, in the form of a Soulslike platformer, will include many nightmarish creatures and treacherous landscapes with many enemies and traps that must be avoided. We want the player to learn to battle using attacks and strategic evasion. "Soul Boy" features haunting visuals. Created by Skyward Studios the game melds challenging gameplay, atmospheric design, and a gripping indirect narrative. It promises an unforgettable experience for enthusiasts of platformers, Soulslike games, and dark fantasy genres alike. Get ready to test your skills and unravel the dark secrets that envelop the world of "Soul Boy."
 
 ## Features
 
