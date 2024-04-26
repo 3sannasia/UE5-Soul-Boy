@@ -24,7 +24,7 @@ The game will encompass a grim, mysterious, and atmospheric world where the play
 <p align="center"><img src="https://github.com/Zax-boop/SoulBoy/assets/54860072/54530e57-8f64-449e-b26c-56669a9469dd" alt="logo" width="600" /></p>
 
 <p align="center"><img src="
-https://github.com/Zax-boop/SoulBoy/assets/54860072/ff1ff3ca-55a6-4e99-9b50-6ead55307ffd" alt="logo" width="600" /></p>
+https://github.com/Zax-boop/SoulBoy/assets/54860072/14364b8b-20ee-4489-9d95-9e60b4032b34" alt="logo" width="600" /></p>
 
 <p align="center"><img src="https://github.com/Zax-boop/SoulBoy/assets/54860072/5d5dc10d-a1b9-4754-b4bf-855925382d7a" alt="logo" width="600" /></p>
 
